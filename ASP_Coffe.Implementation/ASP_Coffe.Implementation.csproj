@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASO_Coffee.DataAccess\ASP_Coffee.DataAccess.csproj" />
+    <ProjectReference Include="..\ASP_Coffee.Application\ASP_Coffee.Application.csproj" />
+  </ItemGroup>
+
+</Project>

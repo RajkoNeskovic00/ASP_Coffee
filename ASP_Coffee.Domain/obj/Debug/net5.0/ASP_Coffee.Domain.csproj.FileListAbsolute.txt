@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\bin\Debug\net5.0\ASP_Coffee.Domain.deps.json
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\bin\Debug\net5.0\ASP_Coffee.Domain.dll
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\bin\Debug\net5.0\ASP_Coffee.Domain.pdb
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.dll
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\refint\ASP_Coffee.Domain.dll
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ASP_Coffee.Domain.pdb
+C:\Users\Korisnik\Desktop\ASP\ProjekatASP\ASP_Coffee\ASP_Coffee.Domain\obj\Debug\net5.0\ref\ASP_Coffee.Domain.dll
